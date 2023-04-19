@@ -1,0 +1,6 @@
+fake_news_model/*.bin filter=lfs diff=lfs merge=lfs -text
+job_scams/*.bin filter=lfs diff=lfs merge=lfs -text
+phishing_model/*.bin filter=lfs diff=lfs merge=lfs -text
+job_scams_model/*.bin filter=lfs diff=lfs merge=lfs -text
+political_statements_model/*.bin filter=lfs diff=lfs merge=lfs -text
+product_reviews_model/*.bin filter=lfs diff=lfs merge=lfs -text
